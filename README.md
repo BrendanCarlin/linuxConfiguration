@@ -2,6 +2,7 @@
 ## Full Stack Nanodegree Project
 
 ### Project Overview
+For this project I had to take a baseline installation of a Linux distribution on a virtual machine and prepare it to host my web application by installing updates, securing it from a number of attack vectors, and installing/configuring web and database servers.
 
 
 ### IP Address and SSH port
